@@ -1,0 +1,7 @@
+{
+  "puppet_task_version": 1,
+  "supports_noop": false,
+  "description": "Remediates CVE-2000-0666, CVE-2000-0800 Statd Format Bug Vulnerability",
+  "parameters": {
+  }
+}

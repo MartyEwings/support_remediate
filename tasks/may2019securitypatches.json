@@ -1,0 +1,7 @@
+{
+  "puppet_task_version": 1,
+  "supports_noop": false,
+  "description": "security update for Windows May 2019",
+  "parameters": {
+  }
+}

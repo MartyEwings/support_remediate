@@ -1,0 +1,7 @@
+{
+  "puppet_task_version": 1,
+  "supports_noop": false,
+  "description": "Remediates CVE-2015-2806, CVE-2015-3622: CentOS Security Update for libtasn1 (CESA-2017:1860)",
+  "parameters": {
+  }
+}
