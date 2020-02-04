@@ -1,0 +1,7 @@
+{
+  "puppet_task_version": 1,
+  "supports_noop": false,
+  "description": "Task to remediate cve_2019_18634 in systems with a bash shell, remediaton through removal of ,pwfeedback in /etc/sudoers file ",
+  "parameters": {
+  }
+}
